@@ -1,0 +1,12 @@
+{
+  "name": "node-threads",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --experimental-worker index.js"
+  },
+  "keywords": [],
+  "author": "Matheus Genteluci <mgenteluci97@gmail.com>",
+  "license": "ISC"
+}
